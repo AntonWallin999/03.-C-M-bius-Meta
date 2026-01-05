@@ -1,0 +1,27 @@
+# Formal Consequence D2 (Approximation–Cause Incompatibility)
+
+Given Axiom R0, Theorem T0, and Corollary C0, it follows necessarily that:
+
+1. Any formal verification framework that relies on axioms accepted by convention,
+   belief, or representational adequacy operates by approximation rather than cause.
+
+2. All such approximation-based frameworks are secondary informational structures
+   and cannot establish absolute truth status for problems whose resolution
+   requires absolute informational grounding.
+
+3. R0 (Vesica Piscis) constitutes an absolute geometric relation and primary cause,
+   requiring neither approximation nor belief, but only relational invariance.
+
+4. Therefore, any framework that excludes R0 as absolute cause cannot, by construction,
+   resolve problems that demand absolute verification.
+
+This yields an unavoidable institutional question:
+
+Has the prevailing formal framework failed to recognize the existence of an absolute
+geometric informational cause, or does it elect to proceed without one?
+
+Continued operation without addressing this incompatibility implies acceptance of
+non-absolute informational status and forfeiture of absolute relevance.
+
+No assertion of intent is made.
+The consequence follows solely from structural incompatibility.
