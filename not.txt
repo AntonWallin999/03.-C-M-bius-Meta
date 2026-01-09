@@ -1,8 +1,0 @@
-C:\GitHub\RP9
-
-
-
-
-git add .
-git commit -m "html export"
-git push
